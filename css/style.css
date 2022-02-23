@@ -1,0 +1,22 @@
+.head,
+.text {
+    color: blue;
+}
+
+.head-img {
+    width: 100px;
+    height: 100px;
+}
+
+.text {
+    font-size: 20px;
+    color: red;
+}
+
+#text-1 {
+    font-size: 10px;
+}
+
+.text-1 {
+    font-size: 30px !important;
+}
